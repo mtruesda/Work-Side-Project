@@ -5,7 +5,15 @@
 
 # imports
 from tkinter import *
+from tkinter import ttk
 
-class gui(self):
+# build the class
+class gui ():
     def __init__(self):
+        self.root = Tk()
+        self.frm = ttk.Frame(self.root, padding=10)
+        self.root.mainloop()
 
+# project runs here
+
+gui()
