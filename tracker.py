@@ -10,12 +10,18 @@ from tkinter import ttk
 # build the class
 class gui ():
     def __init__(self):
+        # Root changes
         self.root = Tk()
-        self.frame = ttk.Frame(self.root, padding=10)
-        self.title = ttk.Label(self.frame, text="Weekly Hours Page", padding=10)
+        self.root.geometry = ("1400x1200")
+        self.root.title("Scheduling Assistant")
+
+        # frame stuff 
+        self.label = ttk.Label(self.root, text="Daily Employees Page", padding=10)
+        
+
+        self.label.pack()
         self.root.mainloop()
         
 
 # project runs here
-
 gui()
