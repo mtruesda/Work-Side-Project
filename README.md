@@ -23,6 +23,8 @@ Additional Thoughts: Would be cool to implement a few of these features
 - A total column that totals automatically like in excel or google sheets
 - Templates that fit a bit more securely and can't be edited out of the "software"
 
+The next/other big changes I would likely make would be cleaning up the appearance.
+
 ## Project Images
 
 <img width="942" alt="Screen Shot 2022-06-27 at 6 51 43 PM" src="https://user-images.githubusercontent.com/99936347/176049806-3fc1090b-8120-4cf2-a5a4-1eb05e9ac133.png">
