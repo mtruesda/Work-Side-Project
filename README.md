@@ -14,3 +14,9 @@ Additional Thoughts: Would be cool to implement a few of these features
 - freezing panes for the names on the hours page (would require doing away with the text box or making a second one that isn't a part of the scrolling one)
 - A total column that totals automatically like in excel or google sheets
 - Templates that fit a bit more securely and can't be edited out of the "software"
+
+Images of the two pages:
+
+<img width="942" alt="Screen Shot 2022-06-27 at 6 51 43 PM" src="https://user-images.githubusercontent.com/99936347/176049806-3fc1090b-8120-4cf2-a5a4-1eb05e9ac133.png">
+
+<img width="944" alt="Screen Shot 2022-06-27 at 6 51 57 PM" src="https://user-images.githubusercontent.com/99936347/176049835-d964e691-ecf1-4b2d-aa03-201da8147ea0.png">
