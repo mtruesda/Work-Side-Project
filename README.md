@@ -1,8 +1,16 @@
 # Using Python to Create a Program that Handles number of hours per week and scheduling
 
+## Reason
+
+I work as a swim club manager and find the scheduler to be confusing without the assistance of an auxillary application and thought it might be fun just to make a simple one that could be used.
+
+## Description
+
 This program will allow the user to plan out the shifts of employees per day of the week. It's not super automated but it saves this information to a file that gets updated through the use of a       button. I plan to implement this using TKinter and having the program access the information from a local file that can be edited so that it "saves". It probably won't be as practical as using a google sheet or an excel sheet,but it will be fun practice.
 
 The goal is to also have a page where you can write and store the number of hours per week per employee and possibly even have the "software" do a little math totalling.
+
+## Updates
 
 @Version 05/21/22
 Project can create a tkinter window.
