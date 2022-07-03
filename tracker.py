@@ -14,7 +14,7 @@ class gui ():
         self.root = Tk()
         self.root.geometry = ("1400x1200")
         self.root.title("Scheduling Assistant")
-
+    
         self.setupSchedulePage()
 
     def updateScheduleFile(self):
